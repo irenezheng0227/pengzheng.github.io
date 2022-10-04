@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Computer Science in Xi'an Jiaotong-Liverpool University, China, 2018-2020
+* BSc in Computer Science in University of Liverpool, United Kingdom, 2020-2022
+* Master of Analytics in University of California, Berkeley, United States, 2022-2023
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Final Year 2021-2022: Final Year Project
+  * Univisity of Liverpool
+  * Project: Explore extensions of QMIX, a deep cooperative multi-agent reinforcement learning with some techniques used in single-agent RL such as multi-step learning and dueling networks.
+  * Supervisor: Professor Bei Peng
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2021: Research Intern
+  * Beijing Jiaotong University
+  * Project: Propose adaptive control algorithms for realizing the fixed-time matrix projective synchronization (FTMPS) of different dimensional chaotic systems (DDCS) by employing artificial intelligence methods such as neural networks, adaptive control algorithms.
+  * Supervisor: Professor Guoguang Wen
+
+* Summer 2021: Research Intern
+  * East China Normal University
+  * Project: Propose a new method Channel and Spatial Attention-Guided Generative Adversarial Networks (CSAGAN) for unsupervised image to image translation.
+  * Supervisor: Professor Chao Peng
+
+* Summer 2020: Research Intern
+  * Beijing Jiaotong University
+  * Project: Investigate the finite-horizon optimal tracking control problem for a group of entirely unknown generic linear multi-agent systems with disturbance and input saturation by using reinforcement learning.
+  * Supervisor: Professor Guogang Wen
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [Fixed-Time Adaptive Time-Varying Matrix Projective Synchronization of Time-Delayed Chaotic Systems with Different Dimensions](https://www.techscience.com/CMES/v131n3/47393/html) <br/>
+Peng Zheng, Xiaozhen Guo, Guoguang Wen.
+* [CSAGAN: Channel and Spatial Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation](https://ieeexplore.ieee.org/abstract/document/9658979) <br/>
+Rui Yang, Chao Peng, Chenchao Wang, Mengdan Wang, Yao Chen, Peng Zheng, Neal N Xiong.
+
